@@ -25,7 +25,7 @@ import (
 const VendorID = 4057
 
 // ProductID is the USB ProductID assigned to Elgato's Stream Deck (0x0060)
-const ProductID = 96
+const ProductID = 109
 
 // NumButtons is the total amount of Buttons located on the Stream Deck.
 const NumButtons = 15
